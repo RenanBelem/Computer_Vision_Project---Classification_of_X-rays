@@ -1,0 +1,2 @@
+# Computer_Vision_Project---Classification_of_X-rays
+Este projeto de Visão Computacional utiliza técnicas de Deep Learning para auxiliar no diagnóstico de infeções pulmonares, através da análise automatizada de radiografias do tórax. O objetivo principal é fornecer uma ferramenta de suporte à decisão clínica, agilizando a triagem em cenários de alta procura, como o experienciado durante a pandemia.
